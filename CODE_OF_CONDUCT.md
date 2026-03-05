@@ -1,40 +1,47 @@
-# Space Station 14 Code of Conduct
+## Código de Conduta do Space Station 14
+A equipe e a comunidade do Space Station 14 são compostas por voluntários de todo o mundo, trabalhando em todos os aspectos do projeto — incluindo desenvolvimento, ensino e hospedagem de ferramentas essenciais.
+A diversidade é uma de nossas grandes forças, mas também pode levar a problemas de comunicação e insatisfação. Para tanto, temos algumas regras básicas que pedimos que as pessoas sigam. Este código se aplica igualmente a todos os níveis do projeto, de comentaristas a colaboradores e membros da equipe.
+Esta não é uma lista exaustiva de coisas que você não pode fazer. Em vez disso, receba-a no espírito em que foi pretendida — um guia para facilitar o enriquecimento de todos nós e das comunidades técnicas das quais participamos.
 
-Space Station 14's staff and community is made up volunteers from all over the world, working on every aspect of the project - including development, teaching, and hosting integral tools.
+Este código de conduta se aplica especificamente aos repositórios do GitHub e seus espaços gerenciados pelo projeto Space Station 14 ou pela Space Wizards Federation. Alguns espaços, como o Discord do Space Station 14 ou os servidores oficiais de jogo Wizard's Den, possuem regras próprias, mas que em espírito são equivalentes ao que se encontra aqui.
 
-Diversity is one of our huge strengths, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to all levels of the project, from commenters to contributors to staff.
+Se você acredita que alguém está violando o código de conduta, pedimos que denuncie entrando em contato com um Mantenedor (Maintainer), Gerente de Projeto (Project Manager) ou membro da equipe Wizard através do Discord, dos fóruns ou enviando um e-mail para [support@spacestation14.com](mailto:support@spacestation14.com)
 
-This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended - a guide to make it easier to enrich all of us and the technical communities in which we participate.
 
-This code of conduct applies specifically to the Github repositories and its spaces managed by the Space Station 14 project or Space Wizards Federation. Some spaces, such as the Space Station 14 Discord or the official Wizard's Den game servers, have their own rules but are in spirit equal to what may be found in here.
+**Seja amigável e paciente.**
+**Seja acolhedor**. Esforçamo-nos para ser uma comunidade que acolhe e apoia pessoas de todas as origens e identidades. Isso inclui, mas não se limita a, membros de qualquer raça, etnia, cultura, origem nacional, cor, status imigratório, classe social e econômica, nível educacional, sexo, orientação sexual, identidade e expressão de gênero, idade, tamanho, estado civil, crença política, religião e habilidade mental e física.
 
-If you believe someone is violating the code of conduct, we ask that you report it by contacting a Maintainer, Project Manager or Wizard staff member through [Discord](https://discord.ss14.io/), [the forums](https://forum.spacestation14.com/), or emailing [support@spacestation14.com](mailto:support@spacestation14.com).
+**Seja atencioso**. Seu trabalho será usado por outras pessoas e, por sua vez, você dependerá do trabalho de outros. Qualquer decisão que você tomar afetará usuários e colaboradores, e você deve levar essas consequências em conta ao tomar decisões. Lembre-se de que somos uma comunidade mundial, portanto, você pode não estar se comunicando na língua nativa de outra pessoa. Temos colaboradores de todos os níveis de habilidade, alguns até fazendo sua primeira incursão em um novo campo com este projeto, então mantenha isso em mente ao discutir o trabalho de alguém.
 
-- **Be friendly and patient.**
-- **Be welcoming.** We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
-- **Be considerate.** Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and contributors, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language. We have contributors of all skill levels, some even making their first foray into a new field with this project, so keep that in mind when discussing someone's work.
-- **Be respectful.** Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the Space Station 14 community should be respectful when dealing with other members as well as with people outside the Space Station 14 community. Assume contributions to the project, even those that do not end up being included, are made in good faith.
-- **Be careful in the words that you choose.** We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren't acceptable. This includes, but is not limited to:
-  - Violent threats or language directed against another person.
-  - Discriminatory jokes and language.
-  - Posting sexually explicit or violent material.
-  - Posting (or threatening to post) other people's personally identifying information ("doxing").
-  - Personal insults, especially those using racist or sexist terms.
-  - Unwelcome sexual attention.
-  - Advocating for, or encouraging, any of the above behavior.
-  - Repeated harassment of others. In general, if someone asks you to stop, then stop.
-- **When we disagree, try to understand why.** Disagreements, both social and technical, happen all the time and Space Station 14 is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of Space Station 14 comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to make mistakes and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+**Seja respeitoso**. Nem todos concordaremos o tempo todo, mas a discordância não é desculpa para mau comportamento e falta de educação. Todos podemos sentir frustração de vez em quando, mas não podemos permitir que essa frustração se transforme em um ataque pessoal. É importante lembrar que uma comunidade onde as pessoas se sentem desconfortáveis ou ameaçadas não é produtiva. Os membros da comunidade Space Station 14 devem ser respeitosos ao lidar com outros membros, bem como com pessoas fora da comunidade. Assuma que as contribuições para o projeto, mesmo aquelas que acabam não sendo incluídas, são feitas de boa-fé.
+**Seja Cuidadoso com as palavras que escolhe**. Somos uma comunidade de profissionais e nos conduzimos profissionalmente. Seja gentil com os outros. Não insulte ou rebaixe outros participantes. Assédio e outros comportamentos excludentes não são aceitáveis. Isso inclui, mas não se limita a:
 
-Original text courtesy of the [Speak Up! project](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html).
+Ameaças violentas ou linguagem dirigida a outra pessoa.
 
-## On Community Moderation
+Piadas e linguagem discriminatória.
 
-Deviating from the Code of Conduct on the Github repository may result in moderative actions taken by project Maintainers. This can involve your content being edited or deleted, and may result in a temporary or permanent block from the repository.
+Postagem de material sexualmente explícito ou violento.
 
-This is to ensure Space Station 14 is a healthy community in which contributors feel encouraged and empowered to contribute, and to give you as a member of this community a chance to reflect on how you are interacting with it. While outright offensive and bigoted content will *always* be unacceptable on the repository, Maintainers are at liberty to take moderative actions against more ambiguous content that fail to provide constructive criticism, or that provides constructive criticism in a non-constructive manner. Examples of this include using hyperbole, bringing up PRs/changes unrelated to the discussion at hand, hostile tone, off-topic comments, creating PRs/Issues for the sole purpose of causing discussions, skirting the line of acceptable behavior, etc. Disagreeing with content or each other is fine and appreciated, but only as long as it's done with respect and in a constructive manner.
+Postar (ou ameaçar postar) informações de identificação pessoal de outras pessoas ("doxing").
 
-Maintainers are expected to adhere to the guidelines as listed in the [Github Moderation Guidelines](https://docs.spacestation14.com/en/general-development/github-moderation-guidelines.html), though may deviate should they feel it's in the best interest of the community. If you believe you had an action incorrectly applied against you, you are encouraged to contact staff via [Discord](https://discord.ss14.io/) or [the forums](https://forum.spacestation14.com/), [appeal your Github ban](https://forum.spacestation14.com/c/ban-appeals/appeals-github/38), or make a [staff complaint](https://forum.spacestation14.com/t/staff-complaint-instructions-and-info/31).
+Insultos pessoais, especialmente aqueles que usam termos racistas ou sexistas.
 
-## Attribution
+Atenção sexual indesejada.
 
-This Code of Conduct is an edited version of the [Django Code of Conduct](https://www.djangoproject.com/conduct/), licensed under CC BY 3.0, for the Space Station 14 Github repository.
+Defender ou encorajar qualquer um dos comportamentos acima.
+
+Assédio repetido a outros. Em geral, se alguém pedir para você parar, pare.
+
+**Quando discordarmos, tentamos entender o porquê.** Discordâncias, tanto sociais quanto técnicas, acontecem o tempo todo e o Space Station 14 não é exceção. É importante que resolvamos discordâncias e visões divergentes de forma construtiva. Lembre-se de que somos diferentes. A força do Space Station 14 vem de sua comunidade variada, pessoas de uma ampla gama de origens. Diferentes pessoas têm diferentes perspectivas sobre os problemas. Ser incapaz de entender por que alguém mantém um ponto de vista não significa que essa pessoa esteja errada. Não esqueça que é humano cometer erros e culpar uns aos outros não nos leva a lugar nenhum. Em vez disso, foque em ajudar a resolver problemas e aprender com os erros.
+
+Texto original cortesia do projeto [Speak Up! project](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html).
+
+## Sobre a Moderação da Comunidade
+Desviar-se do Código de Conduta no repositório do GitHub pode resultar em ações moderativas tomadas pelos Mantenedores do projeto. Isso pode envolver a edição ou exclusão do seu conteúdo e pode resultar em um bloqueio temporário ou permanente do repositório.
+
+Isso serve para garantir que o Space Station 14 seja uma comunidade saudável na qual os colaboradores se sintam encorajados e capacitados a contribuir, e para dar a você, como membro desta comunidade, uma chance de refletir sobre como está interagindo com ela. Embora conteúdos abertamente ofensivos e preconceituosos sejam sempre inaceitáveis no repositório, os Mantenedores têm a liberdade de tomar ações moderativas contra conteúdos mais ambíguos que falhem em fornecer críticas construtivas, ou que forneçam críticas construtivas de maneira não construtiva. Exemplos disso incluem o uso de hipérboles, mencionar PRs/mudanças não relacionadas à discussão em questão, tom hostil, comentários fora do tópico, criar PRs/Issues com o único propósito de causar discussões, beirar o limite do comportamento aceitável, etc. Discordar do conteúdo ou uns dos outros é aceitável e apreciado, mas apenas contanto que seja feito com respeito e de maneira construtiva.
+Espera-se que os Mantenedores sigam as diretrizes listadas nas Diretrizes de Moderação do GitHub, embora possam divergir caso sintam que é do melhor interesse da comunidade. Se você acredita que uma ação foi aplicada incorretamente contra você, sinta-se encorajado a entrar em contato com a equipe via [Discord](https://discord.ss14.io/) ou [the forums](https://forum.spacestation14.com/), apelar do seu banimento no Github [appeal your Github ban](https://forum.spacestation14.com/c/ban-appeals/appeals-github/38) ou fazer uma reclamação da equipe [staff complaint](https://forum.spacestation14.com/t/staff-complaint-instructions-and-info/31).
+
+## Atribuição
+
+Este Código de Conduta é uma versão editada do Código de Conduta do Django, licenciado sob CC BY 3.0, para o repositório GitHub do Space Station 14.
